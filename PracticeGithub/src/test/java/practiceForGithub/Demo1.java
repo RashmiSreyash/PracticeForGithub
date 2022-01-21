@@ -13,7 +13,7 @@ public class Demo1
 		System.out.println("my life my rule");
 
 		System.out.println("what is this hi and bye huhh..!!");
-System.out.println("go to hell ");
+		
 	}
 
 }
