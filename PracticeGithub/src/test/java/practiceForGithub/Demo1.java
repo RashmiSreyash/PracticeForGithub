@@ -11,7 +11,11 @@ public class Demo1
 		System.out.println(value);
 
 		System.out.println("my life my rule");
+
 		System.out.println("*********************************");
+
+		System.out.println("=============================");
+		System.out.println("?????????");
 		System.out.println("what is this hi and bye huhh..!!");
 		
 	}
